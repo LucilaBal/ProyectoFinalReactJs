@@ -1,4 +1,8 @@
 # Cell Com
+Somos una empresa joven dedicada a la venta de Smartphones online.
+Nuestro objetivo es hacer que las compras sean más prácticas, cómodas y seguras a sólo un click y sin moverte de tu casa.
+Contamos con una gran variedad de artículos y la constante búsqueda de nuevos productos, porque nuestra mision es ser siempre la mejor opción online.
+Nuestro compromiso con nuestros clientes nos pone en constante desafío de innovación, para brindar un servicio de excelencia, a través de las nuevas tecnologías y canales de comercialización on-line a todo el país.
 
 ![GIF](file:///C:/Users/Lucil/Videos/Captures/Cell%20Com%20-%20Opera%202022-05-18%2020-50-06.mp4)
 

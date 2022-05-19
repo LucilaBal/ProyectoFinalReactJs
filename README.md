@@ -12,11 +12,6 @@ _Deberás Forkear este proyecto si quieres tener una copia en tu propio reposito
 _Si lo que deseas es tener una copia en tu computador local, debes bajarte el archivo ZIP._
 
 
-
-## Deployment 📦
-
-_Este proyecto contiene solamente tecnología del lado del cliente. Por esta razón, para ejecutarlo tan solo es necesario abrir el archivo index.html en tu browser favorito._
-
 ## Construido con 🛠️
 
 * [HTML](https://developer.mozilla.org/es/docs/Web/HTML)

@@ -21,7 +21,7 @@ _Este proyecto contiene solamente tecnología del lado del cliente. Por esta raz
 * [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 * [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript)
-* [React]
+* React
 
 ## Autor ✒️
 
